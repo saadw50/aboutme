@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/saadw50" target="blank"><img src="https://img.shields.io/twitter/follow/saadw50?logo=twitter&style=for-the-badge" alt="saadw50" /></a> </p>
 
-- 🔭 I’m currently working on [Smart Attendance System](https://github.com/saadw50/smart_attendence_system_rfid)
+- 🔭 I’m currently working on [Ultrasonic Shape Detection Rudder (Without Servo)](https://github.com/saadw50/ultrasonic_rudder/tree/main)
 
 - 🌱 I’m currently learning **Android Studio, COMSOL, Google API**
 
-- 🤝 I’m looking for help with **Facebook Profile Information generator**
+- 🤝 I’m looking for help with [Ultrasonic Shape Detection Rudder (Without Servo)](https://github.com/saadw50/ultrasonic_rudder/tree/main)
 
 - 👨‍💻 All of my projects are available at [www.facebook.com/saadw50](www.facebook.com/saadw50)
 
-- 📫 How to reach me **shadebnywahid@gmail.com**
+- 📫 How to reach me **shadebnywahid@gmail.com** **s23111212@bsfmstu.ac.bd**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1q19jDYHpGHEHJq8MfL7ZnVBcALHE4oKg/view?usp=sharing](https://drive.google.com/file/d/1q19jDYHpGHEHJq8MfL7ZnVBcALHE4oKg/view?usp=sharing)
 
