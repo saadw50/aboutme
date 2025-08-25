@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ultrasonic Shape Detection Rudder (Without Servo)](https://github.com/saadw50/ultrasonic_rudder/tree/main)
 
-- 🌱 I’m currently learning **Android Studio, COMSOL, Google API**
+- 🌱 I’m currently learning **Android Studio, Google API,Ubuntu, Beamforming, Quantum Espresso, DFT, Python, Overleaf**
 
 - 🤝 I’m looking for help with [Ultrasonic Shape Detection Rudder (Without Servo)](https://github.com/saadw50/ultrasonic_rudder/tree/main)
 
