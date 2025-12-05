@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [🛰️ Utrasound phased array for 2D acoustic imaging using beamforming (Servo-Free)](https://github.com/saadw50/ultrasound_phased_array_for_2d_acustic_imaging/tree/main)
 
 - 🔭 I’m currently working on  Lead-Free Inorganic Halide Perovskite Derivatives
-- 
+  
 - 🌱 I’m currently learning **Android Studio, Google API,Ubuntu, Beamforming, Quantum Espresso, DFT, Python, Overleaf**
 
 - 🤝 I’m looking for help with [Ultrasonic Shape Detection Rudder (Without Servo)](https://github.com/saadw50/ultrasonic_rudder/tree/main)
