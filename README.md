@@ -2,7 +2,7 @@
 <h3 align="center">A BSc Student in Electrical and Electronic Engineering in Jamalpur Science and Technology University, Bangladesh</h3>
 
 <p align="left"> <a href="https://twitter.com/saadw50" target="blank"><img src="https://img.shields.io/twitter/follow/saadw50?logo=twitter&style=for-the-badge" alt="saadw50" /></a> </p>
-- 🔭 I’m currently working on [🛰️ Utrasound phased array for 2D acoustic imaging using beamforming (Servo-Free)](https://github.com/saadw50/ultrasound_phased_array_for_2d_acustic_imaging/tree/main)
+- 🔭 I’m currently working on [🛰️ Utrasound phased array for 2D acoustic imaging using beamforming (Servo-Free)](https://github.com/saadw50/ultrasound_phased_array_for_2d_acustic_imaging/tree/main) Lead-Free Inorganic Halide Perovskite Derivatives
 
 - 🌱 I’m currently learning **Android Studio, Google API,Ubuntu, Beamforming, Quantum Espresso, DFT, Python, Overleaf**
 
